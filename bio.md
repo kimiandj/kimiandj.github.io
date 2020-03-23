@@ -1,0 +1,9 @@
+---
+layout: default
+title: Bio
+permalink: /bio/
+---
+
+<p> I started my PhD at <a href="https://www.telecom-paris.fr/en/home" target="_blank">Telecom Paris</a> (<a href="https://www.ip-paris.fr/en/home-en/" target="_blank">Institut Polytechnique de Paris</a>) in October 2018, under the supervision of <a href="https://perso.telecom-paristech.fr/simsekli/" target="_blank">Umut &#350;im&#351;ekli</a> and <a href="https://perso.telecom-paristech.fr/rbadeau/" target="_blank">Roland Badeau</a>. Before this, I graduated from <a href="http://ensimag.grenoble-inp.fr/en" target="_blank">Ensimag</a> (<a href="http://www.grenoble-inp.fr/en" target="_blank">Grenoble INP</a>) in applied mathematics and computer science, and from the master program <a href="https://www.master-mva.com/" target="_blank">MVA</a> of <a href="https://ens-paris-saclay.fr/en" target="_blank">ENS Paris-Saclay</a> in computer vision and machine learning. </p>
+
+<p> I interned at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/" target="_blank">Microsoft Research Montreal</a>, working with <a href="https://www.microsoft.com/en-us/research/people/rolaroch/" target="_blank">Romain Laroche</a> and <a href="https://www.microsoft.com/en-us/research/people/retachet/" target="_blank">R&#233;mi Tachet des Combes</a> on safe reinforcement learning methods, and at the <a href="https://aip.riken.jp/" target="_blank">RIKEN center for Advanced Intelligence Project</a> in Tokyo, within the Approximate Bayesian Inference team led by <a href="https://emtiyaz.github.io/" target="_blank">Emtiyaz Khan</a>. </p>

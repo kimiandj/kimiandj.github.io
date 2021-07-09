@@ -7,6 +7,7 @@ permalink: /research/
 <h4>Preprints:</h4>
 
 <ul>
+	<li> <b>K. Nadjahi</b>, A. Durmus, P. E. Jacob, R. Badeau, U. &#350;im&#351;ekli. <i>Fast Approximation of the Sliced-Wasserstein Distance Using Concentration of Random Projections.</i> 2021. [<a href="https://arxiv.org/pdf/2106.15427.pdf" target="_blank">pdf</a>] </li>	
 	<li> S. Kolouri, <b>K. Nadjahi</b>, U. &#350;im&#351;ekli, S. Shahrampour. <i>Generalized Sliced Distances for Probability Distributions.</i> 2020. [<a href="https://arxiv.org/pdf/2002.12537.pdf" target="_blank">pdf</a>] </li>
 </ul>
 
@@ -30,5 +31,5 @@ permalink: /research/
 <h4>Reviewing experience:</h4>
 I served as a reviewer for the following international conferences: 
 <ul>
-	<li> AISTATS 2020, NeurIPS 2020 <b>(Top 10% of high-scoring reviewers)</b>, AISTATS 2021. </li>
+	<li> AISTATS 2020, NeurIPS 2020 <b>(Top 10% of high-scoring reviewers)</b>, AISTATS 2021, ICML 2021, NeurIPS 2021. </li>
 </ul>

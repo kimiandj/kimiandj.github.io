@@ -4,9 +4,18 @@ title: Home
 permalink: /
 ---
 
-<p> I'm a 3rd-year PhD student at <a href="https://www.telecom-paris.fr/en/home" target="_blank">Telecom Paris</a> (<a href="https://www.ip-paris.fr/en/home-en/" target="_blank">Institut Polytechnique de Paris</a>, France), advised by <a href="https://perso.telecom-paristech.fr/simsekli/" target="_blank">Umut &#350;im&#351;ekli</a> and <a href="https://perso.telecom-paristech.fr/rbadeau/" target="_blank">Roland Badeau</a>. My main research interests are statistical inference and optimal transport. I study how computational optimal transport, approximate inference and implicit generative modeling algorithms can be used jointly for large-scale machine learning applications. </p>
+<p> I am a postdoctoral researcher at <a href="https://www.lpsm.paris/en/index" target="_blank">LPSM</a> (<a href="https://www.sorbonne-universite.fr/en" target="_blank">Sorbonne University</a>, Paris, France). My main research interests are statistical inference and optimal transport. I study how computational optimal transport, approximate inference and implicit generative modeling algorithms can be used jointly for large-scale machine learning applications. </p>
 
 <h3> News </h3>
-September 26 2020: Our paper <a href="https://arxiv.org/abs/2003.05783" target="_blank">"Statistical and Topological Properties of Sliced Probability Divergences"</a> has been accepted for a <b>spotlight presentation</b> at <a href="https://nips.cc/Conferences/2020/Dates" target="_blank">NeurIPS 2020</a>. 
 
-May 5 2020: I received the <a href="https://2020.ieeeicassp.org/general/icassp-best-paper-awards/" target="_blank"><b>Best Student Paper Award</b></a> at <a href="https://2020.ieeeicassp.org/" target="_blank">ICASSP 2020</a> for our paper <a href="https://arxiv.org/abs/1910.12815" target="_blank">"Approximate Bayesian Computation with the Sliced-Wasserstein Distance"</a>. 
+<i>June 2022:</i> I am honored to have received the <a href="https://www.telecom-paris.fr/prix-these-ip-paris" target="_blank">first prize of <b>IP Paris Best Thesis Award 2022</b></a> for my PhD dissertation, and the <a href="https://2022.ieeeicassp.org/award_winners.php" target="_blank"><b>Best Paper Award</b></a> at IEEE ICASSP 2022 for our paper <a href="https://ieeexplore.ieee.org/document/9746016" target="_blank">"Generalized Sliced Probability Metrics"</a>. 
+
+<i>January 2022:</i> Our paper <a href="https://ieeexplore.ieee.org/document/9746016" target="_blank">"Generalized Sliced Probability Metrics"</a> was accepted <a href="https://2022.ieeeicassp.org/" target="_blank">IEEE ICASSP 2022</a>. 
+
+<i>November 2021:</i> I defended my PhD thesis.
+
+<i>September 2021:</i> Our paper <a href="https://arxiv.org/abs/2106.15427" target="_blank">"Fast Approximation of the Sliced-Wasserstein Distance Using Concentration of Random Projections"</a> was accepted at <a href="https://neurips.cc/Conferences/2021/" target="_blank">NeurIPS 2021</a>.
+
+<!-- <i>September 2020:</i> Our paper <a href="https://arxiv.org/abs/2003.05783" target="_blank">"Statistical and Topological Properties of Sliced Probability Divergences"</a> was accepted for a <b>spotlight presentation</b> at <a href="https://neurips.cc/Conferences/2020/" target="_blank">NeurIPS 2020</a>. 
+
+<i>May 2020:</i> I received the <a href="https://2020.ieeeicassp.org/general/icassp-best-paper-awards/" target="_blank"><b>Best Student Paper Award</b></a> at <a href="https://2020.ieeeicassp.org/" target="_blank">ICASSP 2020</a> for our paper <a href="https://arxiv.org/abs/1910.12815" target="_blank">"Approximate Bayesian Computation with the Sliced-Wasserstein Distance"</a>.  -->

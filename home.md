@@ -4,7 +4,9 @@ title: Home
 permalink: /
 ---
 
-<p> I am a postdoctoral researcher at <a href="https://www.lpsm.paris/en/index" target="_blank">LPSM</a> (<a href="https://www.sorbonne-universite.fr/en" target="_blank">Sorbonne University</a>, Paris, France). My main research interests are statistical inference and optimal transport. I study how computational optimal transport, approximate inference and implicit generative modeling algorithms can be used jointly for large-scale machine learning applications. </p>
+<p> I am a postdoctoral fellow at MIT's Computer Science & Artificial Intelligence Lab, in the Geometric Data Processing Group led by Prof. Justin Solomon. From December 2021 to December 2022, I was a postdoctoral researcher at <a href="https://www.lpsm.paris/en/index" target="_blank">LPSM</a> (<a href="https://www.sorbonne-universite.fr/en" target="_blank">Sorbonne University</a>, Paris, France). I received my PhD thesis from Telecom Paris in November 2021. </p>
+
+<p> My CV can be found <a href="{{site.url}}{{site.baseurl}}/assets/files/cv_2022.pdf" target="_blank">here</a>. </p>
 
 <h3> News </h3>
 

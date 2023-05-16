@@ -4,15 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-<h4>Preprints:</h4>
-
-<ul>
-	<li> R. Ohana, <b>K. Nadjahi</b>, A. Rakotomamonjy, L. Ralaivola. <i>Shedding a PAC-Bayesian Light on Adaptive Sliced-Wasserstein Distances.</i> 2022. [<a href="https://arxiv.org/pdf/2206.03230.pdf" target="_blank">pdf</a>] </li>
-</ul>
-
 <h4>Conferences:</h4>
 
 <ul>
+	<li> R. Ohana, <b>K. Nadjahi</b>, A. Rakotomamonjy, L. Ralaivola. <i>Shedding a PAC-Bayesian Light on Adaptive Sliced-Wasserstein Distances.</i> ICML 2023. [<a href="https://arxiv.org/pdf/2206.03230.pdf" target="_blank">pdf</a>] </li>
 	<li> S. Kolouri, <b>K. Nadjahi</b>, U. &#350;im&#351;ekli, S. Shahrampour. <i>Generalized Sliced Probability Metrics.</i> IEEE ICASSP 2022 <a href="https://2022.ieeeicassp.org/award_winners.php" target="_blank"><b>(Best Paper Award)</b></a>. [<a href="https://arxiv.org/pdf/2002.12537.pdf" target="_blank">pdf</a>] </li>
 	<li> <b>K. Nadjahi</b>, A. Durmus, P. E. Jacob, R. Badeau, U. &#350;im&#351;ekli. <i>Fast Approximation of the Sliced-Wasserstein Distance Using Concentration of Random Projections.</i> NeurIPS 2021. [<a href="https://arxiv.org/pdf/2106.15427.pdf" target="_blank">pdf</a>] </li>	
 	<li> <b>K. Nadjahi</b>, A. Durmus, L. Chizat, S. Kolouri, S. Shahrampour, U. &#350;im&#351;ekli. <i>Statistical and Topological Properties of Sliced Probability Divergences.</i> NeurIPS 2020 <b>(Spotlight presentation)</b>. [<a href="https://arxiv.org/pdf/2003.05783.pdf" target="_blank">pdf</a>] </li>

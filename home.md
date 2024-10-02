@@ -1,22 +1,33 @@
 ---
 layout: default
-title: Home
+title:
 permalink: /
 ---
 
-<p> I am a postdoctoral fellow at MIT's Computer Science & Artificial Intelligence Lab, in the Geometric Data Processing Group led by Prof. Justin Solomon. From December 2021 to December 2022, I was a postdoctoral researcher at <a href="https://www.lpsm.paris/en/index" target="_blank">LPSM</a> (<a href="https://www.sorbonne-universite.fr/en" target="_blank">Sorbonne University</a>, Paris, France). I received my PhD thesis from Telecom Paris in November 2021. </p>
+<p> I am a <a href="https://www.cnrs.fr/fr" target="_blank">CNRS</a> research faculty (<i>chargée de recherche</i>), based at <a href="https://www.ens.psl.eu/en" target="_blank">ENS Paris</a> (<a href="https://www.di.ens.fr/" target="_blank">Computer Science department</a>, <a href="https://csd.ens.psl.eu/?Presentation-du-CDD" target="_blank">Center for Sciences of Data</a>). I am also a part-time lecturer <i>(professeure attachée)</i> at <a href="https://psl.eu/en" target="_blank">Paris Sciences et Lettres University (PSL)</a>. </p>
+<p> From December 2022 to February 2024, I was a postdoctoral fellow at <a href="https://www.mit.edu/" target="_blank">MIT</a> in the <a href="https://groups.csail.mit.edu/gdpgroup/" target="_blank">Geometric Data Processing Group</a>. From December 2021 to December 2022, I was a postdoctoral researcher at <a href="https://www.sorbonne-universite.fr/en" target="_blank">Sorbonne University</a> (<a href="https://www.lpsm.paris/en/index" target="_blank">LPSM</a>). I received my PhD from <a href="https://www.telecom-paris.fr/" target="_blank">Telecom Paris</a> in November 2021. </p>
 
-<p> My CV can be found <a href="{{site.url}}{{site.baseurl}}/assets/files/cv_2022.pdf" target="_blank">here</a>. </p>
+<p> My CV can be found <a href="{{site.url}}{{site.baseurl}}/assets/files/cv-10-2024.pdf" target="_blank">here</a>. </p>
 
+<h3> Research interests </h3>
+
+Computational optimal transport <br> 
+Learning theory <br>
+Model compression
+
+<h3> Job offers </h3>
+
+Please <a href="mailto:kimia.nadjahi@ens.fr">email me</a> if you are interested in working with me.
+
+<!-- 
 <h3> News </h3>
 
 <i>April 2023:</i> Our paper <a href="https://arxiv.org/abs/2206.03230" target="_blank">"Shedding a PAC-Bayesian Light on Adaptive Sliced-Wasserstein Distances"</a> was accepted at <a href="https://icml.cc/Conferences/2023" target="_blank">ICML 2023</a>.  
 
 <i>June 2022:</i> I am honored to have received the <a href="https://www.telecom-paris.fr/prix-these-ip-paris" target="_blank">first prize of <b>IP Paris Best Thesis Award 2022</b></a> for my PhD dissertation, and the <a href="https://2022.ieeeicassp.org/award_winners.php" target="_blank"><b>Best Paper Award</b></a> at IEEE ICASSP 2022 for our paper <a href="https://ieeexplore.ieee.org/document/9746016" target="_blank">"Generalized Sliced Probability Metrics"</a>. 
 
-<i>January 2022:</i> Our paper <a href="https://ieeexplore.ieee.org/document/9746016" target="_blank">"Generalized Sliced Probability Metrics"</a> was accepted <a href="https://2022.ieeeicassp.org/" target="_blank">IEEE ICASSP 2022</a>. 
+<i>January 2022:</i> Our paper <a href="https://ieeexplore.ieee.org/document/9746016" target="_blank">"Generalized Sliced Probability Metrics"</a> was accepted <a href="https://2022.ieeeicassp.org/" target="_blank">IEEE ICASSP 2022</a>.
 
-<!-- 
 <i>November 2021:</i> I defended my PhD thesis.
 
 <i>September 2021:</i> Our paper <a href="https://arxiv.org/abs/2106.15427" target="_blank">"Fast Approximation of the Sliced-Wasserstein Distance Using Concentration of Random Projections"</a> was accepted at <a href="https://neurips.cc/Conferences/2021/" target="_blank">NeurIPS 2021</a>.

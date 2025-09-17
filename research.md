@@ -7,6 +7,8 @@ permalink: /research/
 <h4> Publications </h4>
 
 <ul>
+	<li> G. Thurin, <b>K. Nadjahi</b>, C. Boyer. <a href="https://arxiv.org/abs/2501.18991" target="_blank"> Optimal Transport-based Conformal Prediction</a>. ICML 2025 </li>
+	<li> C. Bonet*, <b>K. Nadjahi</b>*, T. Séjourné*, K. Fatras, N. Courty. <a href="https://arxiv.org/abs/2306.07176" target="_blank">Slicing Unbalanced Optimal Transport</a>. TMLR (January 2025) </li>
 	<li> J. Zhu, K. Greenewald, <b>K. Nadjahi</b>, H. S&aacute;ez de Oc&aacute;riz Borde, R. Br&uuml;el Gabrielsson, L. Choshen, M. Ghassemi, M. Yurochkin, J. Solomon. <a href="https://arxiv.org/abs/2402.16842" target="_blank">Asymmetry in Low-Rank Adapters of Foundation Models</a>. ICML 2024 </li>
 	<li> <b>K. Nadjahi</b>, K. Greenewald, R. Br&uuml;el Gabrielsson, J. Solomon. <a href="https://arxiv.org/abs/2406.04047" target="_blank">Slicing Mutual Information Generalization Bounds for Neural Networks</a>. ICML 2024 </li>
 	<li> A. Rakotomamonjy, <b>K. Nadjahi</b>, L. Ralaivola. <a href="https://arxiv.org/abs/2310.01973" target="_blank" target="_blank">Federated Wasserstein Distance</a>. ICLR 2024 </li>
@@ -20,13 +22,12 @@ permalink: /research/
 	<li> <b>K. Nadjahi</b>, R. Laroche, R. Tachet des Combes. <a href="https://arxiv.org/abs/1907.05079" target="_blank">Safe Policy Improvement with Soft Baseline Bootstrapping</a>. ECML-PKDD 2019 <!-- [<a href="https://github.com/RomainLaroche/SPIBB" target="_blank">code</a>] [<a href="{{site.url}}{{site.baseurl}}/assets/files/posters/soft_spibb.pdf" target="_blank">poster</a>] --> </li>
 </ul>
 
+<!--
 <h4> Preprints </h4>
 
 <ul>
-	<li> C. Bonet*, <b>K. Nadjahi</b>*, T. Séjourné*, K. Fatras, N. Courty. <a href="https://arxiv.org/abs/2306.07176" target="_blank">Slicing Unbalanced Optimal Transport</a>. 2024 (under review) </li>
 </ul>
-
-
+-->
 
 <h4> PhD thesis </h4>
 

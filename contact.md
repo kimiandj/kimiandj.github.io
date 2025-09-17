@@ -13,4 +13,4 @@ kimia.nadjahi [at] ens.fr
 &Eacute;cole Normale Sup&eacute;rieure <br>
 45 rue d'Ulm <br>
 75005 Paris, France <br>
-<b>Office:</b> Centre Sciences des Donn&eacute;es (CSD), BC315
+<b>Office:</b> Centre Sciences des Donn&eacute;es (CSD), BC321

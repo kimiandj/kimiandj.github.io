@@ -12,19 +12,9 @@ permalink: /
 <h3> Research interests </h3>
 
 Computational optimal transport <br> 
+Generative models <br>
 Learning theory <br>
 Model compression
-
-<h3> Job offers </h3>
-
-<b>April 16, 2026.</b> I am recruiting a PhD student to start in Fall 2026 in my lab (<a href="https://www.di.ens.fr/data/" target="_blank">DATA team</a>, DI ENS, PSL) within the <a href="https://www.prairie-psai.fr/" target="_blank">PR[AI]RIE-PSAI</a> project. The topic concerns the theoretical analysis of modern generative models, with connections to optimal transport and latent representations. A full description of the project can be found <a href="{{site.url}}{{site.baseurl}}/assets/files/phd-fall2026.pdf" target="_blank">here</a>. To apply, interested candidates should send the following application materials <b>by May 18, 2026</b> to <a href="mailto:kimia.nadjahi@ens.fr">kimia.nadjahi@ens.fr</a>:
-<ul>
-  <li>- a curriculum vitae,</li>
-  <li>- a one-page motivation letter describing their interest in the proposed topic and explaining why their background is relevant to the project,</li>
-  <li>- copies of diplomas and academic transcripts.</li>
-</ul>
-
-Results of the selection process will be communicated in two phases between May 30 and mid-June 2026.
 
 <!-- 
 Please <a href="mailto:kimia.nadjahi@ens.fr">email me</a> if you are interested in working with me. 
